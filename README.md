@@ -2,4 +2,4 @@
 pratice purpose
 checksum
 hacker
-debugger
+debug
